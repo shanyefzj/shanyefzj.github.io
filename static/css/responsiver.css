@@ -1,0 +1,529 @@
+@media (min-width: 992px) {
+    #invacat-mobile-nav {
+      display: none !important;
+    }
+  }
+  
+  
+  /* ------------------------------------------------- Large Screen. 1200 ---------------------------------------------------*/
+  
+  @media (min-width: 1400px) and (max-width: 1800px) {
+    .project-btn {
+      margin-top: 250px;
+    }
+  }
+  
+  
+  /* ------------------------------------------------- Large Screen. 1200 ---------------------------------------------------*/
+  
+  @media (min-width: 1200px) and (max-width: 1440px) {
+    .header-area {
+      padding: 30px 0 0;
+    }
+    .admin-content {
+      margin: 200px 0;
+    }
+    .admin-section {
+      margin-top: -148px;
+    }
+  }
+  
+  @media (min-width: 1200px) and (max-width: 1365px) {
+    .popupe-menu.invacat {
+      left: 0;
+    }
+    .progess-inner img {
+      right: 108px;
+    }
+  }
+  
+  
+  /* ------------------------------------------------- Large Screen. 1024 ---------------------------------------------------*/
+  
+  @media (min-width: 1024px) and (max-width: 1600px) {}
+  
+  @media (min-width: 1365px) and (max-width: 1400px) {
+    .popupe-menu.invacat {
+      left: 0;
+    }
+    .progess-inner img {
+      right: 108px;
+    }
+    .admin-content {
+      margin: 200px 0;
+    }
+    .admin-section {
+      margin-top: -150px;
+    }
+  }
+  
+  @media (min-width: 1024px) and (max-width: 1199px) {
+    h2 {
+      font-size: 27px;
+    }
+    .popupe-menu.invacat {
+      left: -10%;
+    }
+    .progess-inner img {
+      right: 87px;
+    }
+    .admin-section {
+      margin-top: -90px;
+    }
+    .project-btn {
+      margin-top: 150px;
+    }
+    .testi-section p {
+      font-size: 35px;
+      padding: 0 12px;
+      line-height: 56px;
+    }
+    .video-content {
+      margin-left: 88px;
+    }
+    .newslatter-form input[type="text"] {
+      width: 59%;
+    }
+  }
+  
+  @media (min-width: 1100px) and (max-width: 1200px) {
+    .project-btn {
+      margin-top: 180px;
+    }
+  }
+  
+  
+  /* ------------------------------------------------- Laptop Screen 1366 ---------------------------------------------------*/
+  
+  @media (min-width: 1170px) and (max-width: 1366px) {}
+  
+  @media (min-width: 1400px) and (max-width: 1660px) {
+    .popupe-menu.invacat {
+      left: 93px;
+    }
+    .project-btn {
+      margin-top: 130px;
+    }
+  }
+  
+  @media (min-width: 1500px) and (max-width: 1660px) {
+    .project-btn {
+      margin-top: 150px;
+    }
+  }
+  
+  @media (min-width: 1600px) and (max-width: 1800px) {
+    .project-btn {
+      margin-top: 194px;
+    }
+  }
+  
+  
+  /* ------------------------------------------------- Old Desktop :992 ---------------------------------------------------*/
+  
+  @media (min-width: 992px) and (max-width: 1364px) {}
+  
+  
+  /* ------------------------------------------------- Old Desktop :992 ---------------------------------------------------*/
+  
+  @media (min-width: 992px) and (max-width: 1200px) {
+    .header-area {
+      padding: 30px 0 0;
+    }
+    .invacat-header nav ul li {
+      margin: 0px 23px;
+    }
+    .admin-content {
+      margin: 200px 0;
+    }
+    .project-area .section-title img {
+      left: 290px;
+    }
+    .project-area .section-title {
+      padding: 0 66px;
+    }
+    .project-area .project-filter {
+      padding: 0 66px;
+    }
+  }
+  
+  @media (min-width: 992px) and (max-width: 1024px) {
+    h1 {
+      font-size: 44px;
+    }
+    h2 {
+      font-size: 27px;
+    }
+    .popupe-menu.invacat {
+      left: -80px;
+    }
+    .header-area {
+      padding: 30px 0 0;
+    }
+    .invacat-header nav ul li {
+      margin: 0px 23px;
+    }
+    .admin-section {
+      margin-top: -86px;
+      text-align: center;
+      position: relative;
+    }
+    .progess-inner img {
+      right: 85px;
+    }
+    .admin-content {
+      margin: 200px 0;
+    }
+    .cd-headline.clip span {
+      font-size: 101px;
+    }
+    .project-btn {
+      margin-top: 150px;
+    }
+    .testi-section p {
+      font-size: 34px;
+      padding: 0 0;
+      line-height: 48px;
+    }
+    .video-content {
+      margin-left: 98px;
+    }
+    .newslatter-form input[type="text"] {
+      width: 70%;
+    }
+  }
+  
+  
+  /* ------------------------------------------------- Tablet Screen : 768 ---------------------------------------------------*/
+  
+  @media (min-width: 768px) and (max-width: 991px) {
+    .header-area {
+      display: none !important;
+    }
+    h1 {
+      font-size: 40px;
+    }
+    .admin-content {
+      text-align: center;
+      margin: 128px 0;
+    }
+    .cd-headline.clip span {
+      font-size: 82px;
+    }
+    .counter-process {
+      margin-bottom: 30px;
+    }
+    .admin-section {
+      margin-top: 0;
+    }
+    .progess-inner img {
+      right: 144px;
+    }
+    .testi-section p {
+      font-size: 31px;
+      padding: 0 0;
+      line-height: 47px;
+    }
+    .video-content {
+      margin-top: -174px;
+      margin-left: 50px;
+    }
+    .project-btn {
+      display: none;
+    }
+    .service-area {
+      margin-top: 350px;
+      margin-bottom: 110px;
+    }
+    .project-area .section-title {
+      padding: 0 0;
+    }
+    .project-area .project-filter {
+      padding: 0 0;
+    }
+    .project-area .section-title img {
+      left: 213px;
+    }
+    .project-active {
+      margin: 0 0;
+    }
+    .call-num h2 {
+      font-size: 19px;
+    }
+    .newslatter-form button {
+      margin-left: 4px;
+    }
+    .newslatter-form input[type="text"] {
+      width: 57%;
+    }
+    .P-Service {
+      margin-top: 60px;
+    }
+  }
+  
+  
+  /* ------------------------------------------------- Small Mobile : 320 ---------------------------------------------------*/
+  
+  @media (min-width: 320px) and (max-width: 767px) {
+    .header-area {
+      display: none !important;
+    }
+    h1 {
+      font-size: 36px;
+    }
+    h2 {
+      font-size: 22px;
+    }
+    h2 a {
+      font-size: 22px;
+    }
+    h6 {
+      font-size: 22px;
+    }
+    .shape-animation {
+      display: none;
+    }
+    .progess-wapper {
+      border-radius: 30px;
+    }
+    .progess-wapper::before {
+      border-radius: 30px;
+    }
+    .breadcrumb-title h1 {
+      font-size: 40px;
+    }
+    .admin-content {
+      text-align: center;
+      margin: 112px 0;
+    }
+    .cd-headline.clip span {
+      font-size: 55px;
+    }
+    .cd-headline.clip .cd-words-wrapper::before {
+      top: 9px;
+    }
+    .admin-section {
+      margin-top: 0;
+    }
+    .service-area {
+      margin-top: 557px;
+    }
+    .brand-area {
+      margin: 120px 0 110px;
+      display: none;
+    }
+    .skill-area {
+      margin-top: 100px;
+    }
+    .video-content {
+      margin-left: 0;
+      padding: 58px;
+      margin-top: 0;
+      width: 100%;
+    }
+    .contact-from {
+      margin-top: 50px;
+    }
+    .progess-inner img {
+      display: none;
+    }
+    .video-play {
+      width: 100px;
+      height: 100px;
+      line-height: 100px;
+      top: 13%;
+      left: 41%;
+    }
+    .video-play:before {
+      width: 100px;
+      height: 100px;
+    }
+    .testi-section p {
+      font-size: 30px;
+      padding: 0 0;
+      line-height: 45px;
+    }
+    .section-title img {
+      display: none;
+    }
+    .project-active {
+      margin: 0 0;
+    }
+    .project-content h2 {
+      font-size: 21px;
+    }
+    .project-area .section-title img {
+      top: 14px;
+      left: 177px;
+    }
+    .project-area .section-title {
+      padding: 0 20px;
+    }
+    .project-btn {
+      margin-top: 75px;
+      display: none;
+    }
+    .aimg02 {
+      left: 0;
+    }
+    .service-icon {
+      float: inherit;
+    }
+    .service-next {
+      float: inherit;
+    }
+    .contact-address {
+      display: inherit;
+      text-align: -webkit-center;
+    }
+    .blog-meta {
+      padding: 30px 24px;
+    }
+    .blog-meta ul {
+      font-size: 14px;
+    }
+    .award-title {
+      margin-bottom: 20px;
+    }
+    .project-content {
+      padding: 34px 34px 0;
+    }
+    .award-content p {
+      margin-right: 0;
+    }
+    .project-area .project-filter {
+      padding: 0 20px;
+    }
+    .project-menu button {
+      padding-right: 40px;
+    }
+    .blog-area {
+      margin: 135px 0;
+    }
+    .newslatter-title {
+      text-align: inherit;
+    }
+    .newslatter-form button {
+      margin-top: 30px;
+    }
+    .footer-contact {
+      margin: 60px 0;
+    }
+  }
+  
+  
+  /* ------------------------------------------------- Large Mobile :480px. ---------------------------------------------------*/
+  
+  @media only screen and (min-width: 480px) and (max-width: 767px) {
+    h2 {
+      font-size: 28px;
+    }
+    .project-btn {
+      margin-top: 158px;
+    }
+    .service-next {
+      float: right;
+    }
+    .video-play {
+      top: 23%;
+      left: 62%;
+    }
+  }
+  
+  
+  /* --------------------------------------------menu and logo show & hide -----------------------------------------------------*/
+  
+  @media (min-width: 10px) and (max-width: 991px) {
+    .header-area {
+      display: none !important;
+    }
+  }
+  
+  @media (min-width: 10px) and (max-width: 991px) {}
+  
+  @media (min-width: 570px) and (max-width: 767px) {}
+  
+  @media (min-width: 10px) and (max-width: 320px) {
+    h6 {
+      font-size: 19px;
+    }
+    h1 {
+      font-size: 20px;
+    }
+    h2 {
+      font-size: 22px;
+    }
+    h2 a {
+      font-size: 20px;
+    }
+    .shape-animation {
+      display: none;
+    }
+    .admin-section {
+      margin-top: 0;
+      margin-bottom: 30px;
+    }
+    .admin-content {
+      margin: 120px 0;
+    }
+    .cd-headline.clip span {
+      font-size: 30px;
+    }
+    .cd-headline.clip .cd-words-wrapper::before {
+      top: 0;
+    }
+    .progess-inner img {
+      display: none;
+    }
+    .section-title img {
+      display: none;
+    }
+    .service-icon {
+      float: inherit;
+    }
+    .award-content p {
+      margin-right: 0;
+    }
+    .contact-address {
+      display: inherit;
+    }
+    .award-title {
+      margin-bottom: 30px;
+    }
+    .blog-area {
+      margin: 100px 0;
+    }
+    .project-active {
+      margin: 0 0;
+    }
+    .project-btn {
+      display: none;
+    }
+    .project-content {
+      padding: 16px 17px 0;
+    }
+    .testi-section p {
+      font-size: 21px;
+      padding: 0 0;
+      line-height: 35px;
+    }
+    .blog-meta ul {
+      margin-left: 0;
+    }
+    .blog-meta ul li {
+      margin-right: 8px;
+      list-style: none;
+    }
+    .newslatter-title {
+      text-align: center;
+    }
+    .newslatter-form button {
+      margin-top: 30px;
+    }
+    .call-number {
+      margin: 30px 0;
+    }
+    .breadcrumb-title h1 {
+      font-size: 30px;
+    }
+  }

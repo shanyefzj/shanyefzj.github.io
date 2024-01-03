@@ -1,0 +1,132 @@
+
+/* slider shape animation */
+.slide-shape01  {
+  -webkit-animation: simple-scale 1s 1s linear infinite alternate;
+  animation: simple-scale 1s 1s linear infinite alternate;
+}
+
+@-webkit-keyframes simple-scale {
+  100% {
+    -webkit-transform: scale(1.2);
+  }
+}
+
+@keyframes simple-scale {
+  100% {
+    transform: scale(1.2);
+  }
+}
+
+
+.slide-shape02  {
+  -webkit-animation: simple-scale 1s 1s linear infinite alternate;
+  animation: simple-scale 1s 1s linear infinite alternate;
+}
+
+@-webkit-keyframes simple-scale {
+  100% {
+    -webkit-transform: scale(1.2);
+  }
+}
+
+@keyframes simple-scale {
+  100% {
+    transform: scale(1.2);
+  }
+}
+
+.slide-shape04 {
+  -webkit-animation: simple-move 2s 2s linear infinite alternate;
+  animation: simple-move 2s 2s linear infinite alternate;
+}
+
+@-webkit-keyframes simple-move {
+  100% {
+    -webkit-transform: translate(0px, 0);
+  }
+}
+
+@keyframes simple-move {
+  100% {
+    transform: translate(50px, 0);
+  }
+}
+
+/* admin shape animation */
+.rotate01 {
+  -webkit-animation: simple-rotate 1s 1s linear infinite alternate;
+  animation: simple-rotate 1s 1s linear infinite alternate;
+}
+@-webkit-keyframes simple-rotate {
+  100% {
+    -webkit-transform: rotate(45deg);
+  }
+}
+
+@keyframes simple-rotate {
+  100% {
+    transform: rotate(45deg);
+  }
+}
+.rotate02 {
+  -webkit-animation: simple-rotate 1.5s 1.5s linear infinite alternate;
+  animation: simple-rotate 1.5s 1.5s linear infinite alternate;
+}
+@-webkit-keyframes simple-rotate {
+  100% {
+    -webkit-transform: rotate(20deg);
+  }
+}
+
+@keyframes simple-rotate {
+  100% {
+    transform: rotate(20deg);
+  }
+}
+.rotate03 {
+  -webkit-animation: simple-rotate 2s 2s linear infinite alternate;
+  animation: simple-rotate 2s 2s linear infinite alternate;
+}
+@-webkit-keyframes simple-rotate {
+  100% {
+    -webkit-transform: rotate(20deg);
+  }
+}
+
+@keyframes simple-rotate {
+  100% {
+    transform: rotate(20deg);
+  }
+}
+
+/* video animation */
+@keyframes invacat  {
+  0%{
+      transform:scale(1);
+  }
+
+  20%{
+      opacity: 1;
+  }
+  100%{
+      transform: scale(1.5); 
+      opacity: 0;
+  }
+}
+/* award shape */
+.aimg02 {
+  -webkit-animation: simple-move 2s 2s linear infinite alternate;
+  animation: simple-move 2s 2s linear infinite alternate;
+}
+
+@-webkit-keyframes simple-move {
+  100% {
+    -webkit-transform: translate(0px, 0);
+  }
+}
+
+@keyframes simple-move {
+  100% {
+    transform: translate(50px, 0);
+  }
+}
